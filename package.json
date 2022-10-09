@@ -1,5 +1,5 @@
 {
-  "name": "@dotconfig/dotenv",
+  "name": "@dotconf-pro/dotenv",
   "version": "1.0.1",
   "description": "Loads environment variables from .env file",
   "main": "lib/main.js",
