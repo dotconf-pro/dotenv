@@ -1,6 +1,6 @@
 {
   "name": "@dotconfig/dotenv",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "description": "Loads environment variables from .env file",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
